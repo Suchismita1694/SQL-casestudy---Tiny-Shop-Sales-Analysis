@@ -1,4 +1,4 @@
-# SQL-casestudy---Tiny-Shop-Sales-Analysis
+# SQL casestudy - Tiny-Shop-Sales-Analysis
 #data in motion 
 
 ```
